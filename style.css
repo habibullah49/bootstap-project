@@ -1,0 +1,70 @@
+.logo_design{
+  width:300px;
+}
+.img_width{
+  width:90%;
+}
+body{
+  font-family: 'Roboto', sans-serif;  
+}
+.nav_margin{
+  margin-left:390px;  
+}
+h1{
+  font-size: 55px;
+}
+.design_image{
+  height: 300px;
+  width: 300px;
+  background-color: rgb(206, 204, 202);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px; 
+}
+.icon_design{
+  width: 70px;
+  height: 70px;
+}
+.panda-card{
+  border:0;
+}
+.panda-card-footer{
+  border: 0;
+  background-color: white;
+}
+.hedder_margin{
+  margin-left: 15px;
+}
+.icon{
+  width:25px;  
+}
+.icon-img{
+  width: 50px;
+  padding: 5px; 
+}
+#google{
+  width: 50%;
+  margin-left: 15px;
+}
+.input{
+  margin-left: 90px;  
+}
+.submit{
+  margin-left: 140px;  
+  margin-top: 7px;  
+}
+.hedder_font-weight{
+  font-weight: 700;
+}
+header{
+  background-color: rgb(253, 249, 244);
+}
+h5{
+  text-align:center;
+}
+.paragraph{
+  color:rgb(131, 129, 129);
+}
+
+
+
